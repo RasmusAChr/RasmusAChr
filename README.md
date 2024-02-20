@@ -18,6 +18,3 @@ While exploring the world of programming and technology, I am on the lookout for
 
 ## Looking forward to learn
 [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
-
-# Profile is still under construction :p
-![Header](./ducks.gif)
