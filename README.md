@@ -16,7 +16,8 @@ While exploring the world of programming and technology, I am on the lookout for
 ## Currently learning
 [![My Skills](https://skillicons.dev/icons?i=java,dotnet,gradle)](https://skillicons.dev)
 
-## Want to learn
+## Looking forward to learn
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 # Profile is still under construction :p
 ![Header](./ducks.gif)
