@@ -5,13 +5,13 @@
 I'm Rasmus, currently in my second semester at the IT-University in Copenhagen, pursuing a Bachelor's degree in Software Development.
 
 # Are you my new colleague?
-I'm currently looking for a place to work, while i study, where I can improve my skills.
+While exploring the world of programming and technology, I am on the lookout for exciting opportunities to kick-start my career and contribute my skills to innovative projects
 
 ## Platforms I use
-[![My Skills](https://skillicons.dev/icons?i=discord,gamemakerstudio,git,github,idea,vscode,wordpress,linkedin,raspberrypi,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,unity,wordpress,linkedin,discord,raspberrypi)](https://skillicons.dev)
 
 ## My languages
-[![My Skills](https://skillicons.dev/icons?i=py,cs,php,html,css,bootstrap,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,php,html,css,bootstrap)](https://skillicons.dev)
 
 ## Currently learning
 [![My Skills](https://skillicons.dev/icons?i=java,dotnet,gradle)](https://skillicons.dev)
