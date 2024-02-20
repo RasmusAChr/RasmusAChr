@@ -5,16 +5,17 @@
 I'm Rasmus, currently in my second semester at the IT-University in Copenhagen, pursuing a Bachelor's degree in Software Development.
 
 # Are you my new colleague?
-While exploring the world of programming and technology, I am on the lookout for exciting opportunities to kick-start my career and contribute my skills to innovative projects
+While exploring the world of programming and technology, I am on the lookout for exciting opportunities to kick-start my career and contribute my skills to innovative projects.
+Do not hesitate to contact me either here, by [mail](mailto:your.email@example.com) or on my <a href="https://www.linkedin.com/in/rasmusachr/" target="_blank">LinkedIn</a>
 
 ## Platforms I use
-[![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,unity,wordpress,linkedin,discord,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,unity,wordpress,linkedin,discord)](https://skillicons.dev)
 
-## My languages
-[![My Skills](https://skillicons.dev/icons?i=py,cs,php,html,css,bootstrap)](https://skillicons.dev)
+## Languages and tools i use
+[![My Skills](https://skillicons.dev/icons?i=py,cs,php,html,css,bootstrap,mysql)](https://skillicons.dev)
 
 ## Currently learning
 [![My Skills](https://skillicons.dev/icons?i=java,dotnet,gradle)](https://skillicons.dev)
 
 ## Looking forward to learn
-[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,flutter,)](https://skillicons.dev)
