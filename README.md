@@ -15,7 +15,7 @@ Do not hesitate to contact me either here, by [mail](mailto:ramus@supera.dk) or 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,php,html,css,bootstrap,mysql,java)](https://skillicons.dev)
 
 ## Currently learning
-[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,postgres,go,azure,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,firebase,postgres,go,azure,dotnet)](https://skillicons.dev)
 
 ## Looking forward to learn
 [![My Skills](https://skillicons.dev/icons?i=mongodb,flutter)](https://skillicons.dev)
