@@ -2,7 +2,7 @@
 
 
 # Greetings! <img src="./greeting-hand.gif" alt="Greeting Hand" width="50" height="50">
-I'm Rasmus, currently in my second semester at the IT-University in Copenhagen, pursuing a Bachelor's degree in Software Development.
+I'm Rasmus, currently in my third semester at the IT-University in Copenhagen, pursuing a Bachelor's degree in Software Development.
 
 # Are you my new colleague?
 While exploring the world of programming and technology, I am on the lookout for exciting opportunities to kick-start my career and contribute my skills to innovative projects.
