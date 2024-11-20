@@ -9,7 +9,7 @@ While exploring the world of programming and technology, I am on the lookout for
 Do not hesitate to contact me either here, by [mail](mailto:ramus@supera.dk) or on my <a href="https://www.linkedin.com/in/rasmusachr/" target="_blank">LinkedIn</a>
 
 ## Platforms I use
-[![My Skills](https://skillicons.dev/icons?i=git,github,idea,rider,visualstudio,vscode,unity,wordpress,linkedin,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,idea,rider,visualstudio,vscode,unity,wordpress,linkedin,discord)](https://skillicons.dev)
 
 ## Languages and tools i use
 [![My Skills](https://skillicons.dev/icons?i=py,cs,php,html,css,bootstrap,mysql,java)](https://skillicons.dev)
