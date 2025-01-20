@@ -19,12 +19,3 @@ Do not hesitate to contact me either here, by [mail](mailto:ramus@supera.dk) or 
 
 ## Looking forward to learn
 [![My Skills](https://skillicons.dev/icons?i=mongodb,flutter,docker)](https://skillicons.dev)
-
-# My GitAnimals
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/RasmusAChr"
-  width="600"
-  height="300"
-/>
-</a>
