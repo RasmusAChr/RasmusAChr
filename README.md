@@ -19,3 +19,6 @@ Do not hesitate to contact me either here, by [mail](mailto:ramus@supera.dk) or 
 
 ## Looking forward to learn
 [![My Skills](https://skillicons.dev/icons?i=mongodb,flutter,docker)](https://skillicons.dev)
+
+## Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rasmusachr&layout=pie)
