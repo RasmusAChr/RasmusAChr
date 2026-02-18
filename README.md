@@ -21,8 +21,8 @@ When I'm not at the keyboard, you'll most likely find me somewhere in a forest o
 **What keeps me busy...**
 - Designing and building systems with a focus on reliability and clean structure.
 - Building small tools and applications that make my own day-to-day a little smoother.
-- Setting up CI/CD pipelines that automate the boring parts of shipping software
-- Designing APIs that are clean, consistent and easy to work with
+- Setting up CI/CD pipelines that automate the boring parts of shipping software.
+- Designing APIs that are clean, consistent and easy to work with.
 - Expanding and improving my homelab infrastructure.
 - Trying out new technologies and frameworks, and seeing how they fit into my workflow.
 
