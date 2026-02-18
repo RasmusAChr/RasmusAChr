@@ -55,7 +55,7 @@ When I'm not at the keyboard, you'll most likely find me somewhere in a forest o
 
 <h2 align="center">Projects</h2>
 
-Read more about my projects [here]().
+Read more about my projects [here](https://rasmusac.dk/projects/).
 | Project | Description | Stack |
 |---|---|---|
 | [**PDF2Images**](https://github.com/RasmusAChr/PDF2Images) | Obsidian plugin that converts PDF pages into images and inserts them directly into notes - built for students to extract lecture slides | `TypeScript` `JavaScript` `PDF.js` `Obsidian API` |
