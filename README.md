@@ -6,7 +6,7 @@
 
 _"A nice quote"_ - by someone
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusachr/)
 [![Website](https://img.shields.io/badge/Website-A9A84C?style=for-the-badge&logo=globe&logoColor=white)](https://rasmusac.dk)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://rasmusachr.dk/)
 ---
@@ -28,7 +28,7 @@ When I'm not at the keyboard, you'll most likely find me somewhere in a forest o
 
 <br>
 
-**Comfortable with**   
+**Core Languages**   
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
