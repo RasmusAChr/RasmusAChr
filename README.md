@@ -15,6 +15,3 @@ I'm Rasmus, currently in my sixth semester at the IT-University in Copenhagen, p
 
 ## Looking forward to learn
 [![My Skills](https://skillicons.dev/icons?i=mongodb,flutter)](https://skillicons.dev)
-
-## Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rasmusachr&layout=pie)
