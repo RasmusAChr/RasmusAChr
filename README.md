@@ -39,6 +39,7 @@ When I'm not at the keyboard, you'll most likely find me somewhere in a forest o
 **Frameworks & Tools**   
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-6C3483?style=flat&logo=dotnet&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-474747?style=flat&logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
