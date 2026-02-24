@@ -11,9 +11,7 @@
 
 <br>
 
-<!-- QUOTE_START -->
 <p><i>"A nice quote"</i> - by someone</p>
-<!-- QUOTE_END -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusachr/)
 [![Website](https://img.shields.io/badge/Website-A9A84C?style=for-the-badge&logo=globe&logoColor=white)](https://rasmusac.dk)
