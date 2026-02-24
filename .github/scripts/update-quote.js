@@ -24,7 +24,7 @@ function main() {
   const data = JSON.parse(fs.readFileSync(quotesFile, "utf8"));
   const randomQuote = getRandomQuote(data.quotes);
 
-  const quoteHtml = `<p><i>"${randomQuote.quote}"</i> - ${randomQuote.author}</p>`;
+  const quoteHtml = `<p><i>"${randomQuote.quote}"</i><br> - ${randomQuote.author}</p>`;
 
   updateReadme(quoteHtml);
 
