@@ -12,7 +12,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p><i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in"</i> - Edsger W. Dijkstra</p>
+<p><i>"You can use an eraser on the drafting table, or a sledgehammer on the construction site"</i><br> - Frank Lloyd Wright</p>
 <!-- QUOTE_END -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusachr/)
