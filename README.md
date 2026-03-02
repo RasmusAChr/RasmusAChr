@@ -12,7 +12,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p><i>"You can use an eraser on the drafting table, or a sledgehammer on the construction site"</i><br> - Frank Lloyd Wright</p>
+<p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand"</i><br> - Martin Fowler</p>
 <!-- QUOTE_END -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusachr/)
