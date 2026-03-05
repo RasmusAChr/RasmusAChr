@@ -21,7 +21,7 @@
 ---
 </div>
 
-I'm a fullstack developer, but the backend is where I feel most at home. I like designing how components fit together, having full control over how data flows, and bringing a clean structure to what could easily become a complex mess. Nothing beats seeing everything I’ve put together run smoothly.
+I'm a fullstack developer, but the backend is where I feel most at home. I like designing how components fit together, having full control over how data flows, and bringing a clean structure to what could easily become a complex mess.
 
 When I'm not at the keyboard, you'll most likely find me somewhere in a forest or on a trail with a backback, tent and trangia.
 
