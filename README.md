@@ -12,7 +12,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p><i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in"</i><br> - Edsger W. Dijkstra</p>
+<p><i>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"</i><br> - Martin Golding</p>
 <!-- QUOTE_END -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusachr/)
