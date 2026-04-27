@@ -12,7 +12,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p><i>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"</i><br> - Martin Golding</p>
+<p><i>"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter"</i><br> - Eric S. Raymond</p>
 <!-- QUOTE_END -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusachr/)
