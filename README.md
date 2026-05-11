@@ -12,7 +12,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand"</i><br> - Martin Fowler</p>
+<p><i>"Ai can generate code, but it can't own the consequences of it"</i><br> - Some guy on Reddit</p>
 <!-- QUOTE_END -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusachr/)
