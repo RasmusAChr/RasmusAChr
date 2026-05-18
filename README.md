@@ -12,7 +12,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p><i>"Ai can generate code, but it can't own the consequences of it"</i><br> - Some guy on Reddit</p>
+<p><i>"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter"</i><br> - Eric S. Raymond</p>
 <!-- QUOTE_END -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusachr/)
