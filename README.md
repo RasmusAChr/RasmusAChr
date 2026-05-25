@@ -12,7 +12,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p><i>"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter"</i><br> - Eric S. Raymond</p>
+<p><i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in"</i><br> - Edsger W. Dijkstra</p>
 <!-- QUOTE_END -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusachr/)
