@@ -4,7 +4,7 @@
 
 <div>
   <b>
-  BSc Software Development @ IT University of Copenhagen - 6th Semester<br>
+  MSc Computer Science @ IT University of Copenhagen<br>
   IT Student @ The Danish Parliamentary Ombudsman
   </b>
 </div>
